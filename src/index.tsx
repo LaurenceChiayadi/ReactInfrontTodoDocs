@@ -6,7 +6,6 @@ import store from "./redux/store";
 import { Provider } from "react-redux";
 import App from "./pages/Todo/App";
 import createTheme from "@mui/material/styles/createTheme";
-import { blue, grey, purple } from "@mui/material/colors";
 import { ThemeProvider } from "@emotion/react";
 
 const root = ReactDOM.createRoot(

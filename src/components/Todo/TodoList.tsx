@@ -61,6 +61,7 @@ const TodoList: React.FC = () => {
         // enableSorting={false}
         // enableBottomToolbar={false}
         // enableTopToolbar={false}
+        enableFullScreenToggle={false}
       />
     </>
   );
